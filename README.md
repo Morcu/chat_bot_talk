@@ -1,2 +1,2 @@
-# chat_bot_talk
+# ChatBot
 ChatBot demo for a Talk
